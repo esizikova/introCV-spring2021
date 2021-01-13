@@ -6,10 +6,12 @@ Special Topics in Data Science, DS-GA 3001.004/.005
 ### Logistics
 
 * DS-GA 3001.004 (Lecture) 
-Wednesdays 1pm-2:40pm Location: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 461)
+Wednesdays 1pm-2:40pm 
+Location: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 461)
 
 * DS-GA 3001.005 (Lab) 
-Thursdays from 12pm-12:50pm Location: Silver Center for Arts & Science, 100 Washington Sq East (SILV_101A)
+Thursdays from 12pm-12:50pm 
+Location: Silver Center for Arts & Science, 100 Washington Sq East (SILV_101A)
 
 * Office hours: TBD
 
@@ -52,34 +54,34 @@ Due on May 2.
   * Weakly-supervised and unsupervised approaches to image and video interpretation 
 
 ### References:
-	•	D.A. Forsyth and J. Ponce, “Computer Vision: A Modern Approach”, second edition, Pearson, 2011.
-	•	R. Szeliski, “Computer Vision: Algorithms and Applications”. (PDF)
-	•	R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004.
+* D.A. Forsyth and J. Ponce, “Computer Vision: A Modern Approach”, second edition, Pearson, 2011.
+* R. Szeliski, “Computer Vision: Algorithms and Applications”. (PDF)
+* R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004.
   
 ## Course Schedule: 
-  | Date | Lecture | Slide Link (will be posted after lecture) |
-|-|-|-|
+| Date | Lecture | Slide Link (will be posted after lecture) |
+|---|---|---|
 | 02/28/2021 | Lab  |  |
 | 02/03/2021 | Lecture 1 |  |
 | 02/04/2021 | Lab |  |
 | 02/10/2021 | Lecture 2 |  |
 | 02/11/2021 | Lab |  |
 | 02/17/2021 | Lecture 3 |  |
-| 02/21 | Exercise 1 DUE |  |
+| 02/21 | | Exercise 1 DUE |
 | 02/24/2021 | Lecture 4 |  |
 | 02/25/2021 | Lab |  |
 | 03/03/2021 | Lecture 5 |  |
 | 03/04/2021 | Lab |  |
 | 03/10/2021 | Lecture 6 |  |
 | 03/11/2021 | Lab |  |
-| 03/14/2021 | Exercise 2 DUE |  |
+| 03/14/2021 |  | Exercise 2 DUE |
 | 03/17/2021 | Lecture 7 |  |
 | 03/18/2021 | Lab |  |
 | 03/24/2021 | Lecture 8 |  |
 | 03/25/2021 | Lab |  |
 | 03/31/2021 | Lecture 9 |  |
 | 04/01/2021 | Lab |  |
-| 04/04/2021 | Exercise 3 DUE |  |
+| 04/04/2021 |  | Exercise 3 DUE |
 | 04/07/2021 | Lecture 10 |  |
 | 04/08/2021 | Lab |  |
 | 04/14/2021 | Lecture 11 |  |
@@ -88,7 +90,7 @@ Due on May 2.
 | 04/22/2021 | Lab |  |
 | 04/28/2021 | Lecture 13 |  |
 | 04/29/2021 | Lab |  |
-| 05/02/2021 | Exercise 4 DUE |  |
+| 05/02/2021 | | Exercise 4 DUE |
 | 05/05/2021 | Lecture 14 |  |
 | 05/06/2021 | Lab |  |
 
