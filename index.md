@@ -21,7 +21,7 @@ Location: Silver Center for Arts & Science, 100 Washington Sq East (SILV_101A)
 Jean Ponce (jean.ponce@inria.fr)  
 Elena Sizikova (es5223@nyu.edu)
 
-TAs:  
+### TAs:  
 Aryaa Singh (as13538@nyu.edu)  
 Manjusha Mishra (mam1974@nyu.edu)
 
@@ -59,6 +59,14 @@ Due on May 2.
 * R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004.
   
 ## Course Schedule: 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+Other
 | Date | Lecture | Slide Link (will be posted after lecture) |
 | --- | --- | --- |
 | 02/28/2021 | Lab  |  |
