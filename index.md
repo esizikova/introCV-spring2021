@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# introCV-spring2021
+Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision
 
-You can use the [editor on GitHub](https://github.com/esizikova/introCV-spring2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Special Topics in Data Science, DS-GA 3001.004/.005
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Logistics
 
-### Markdown
+* DS-GA 3001.004 (Lecture) 
+Wednesdays 1pm-2:40pm Location TBD 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* DS-GA 3001.005 (Lab) 
+Thursdays from 12pm-12:50pm Location 
 
-```markdown
-Syntax highlighted code block
+* Office hours: TBD
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Instructors
 
-1. Numbered
-2. List
+Jean Ponce (jean.ponce@inria.fr)  
+Elena Sizikova (es5223@nyu.edu)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esizikova/introCV-spring2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TAs:  
+Aryaa Singh (as13538@nyu.edu)  
+Manjusha Mishra (mam1974@nyu.edu)
