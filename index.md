@@ -60,10 +60,10 @@ Due on May 2.
   
 ## Course Schedule: 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Date  | Lecture | Slide Link (will be posted after lecture) |
+| ----- | ------- | ----------------------------------------- |
+| 02/28 | Lab |  |
+| 02/03  | Lecture 1 |  |
 
 
 Other
