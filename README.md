@@ -94,5 +94,3 @@ Due on May 2.
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. Website was originally designed by Matthew Trager.
-
-
