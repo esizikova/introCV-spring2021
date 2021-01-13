@@ -60,7 +60,7 @@ Due on May 2.
   
 ## Course Schedule: 
 | Date | Lecture | Slide Link (will be posted after lecture) |
-|---|---|---|
+| --- | --- | --- |
 | 02/28/2021 | Lab  |  |
 | 02/03/2021 | Lecture 1 |  |
 | 02/04/2021 | Lab |  |
