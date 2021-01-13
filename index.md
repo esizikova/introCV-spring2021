@@ -1,5 +1,5 @@
 # Introduction to Computer Vision Spring 2021
-Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision
+Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision. This course is aims to cover a broad topics in computer vision, and is *not* primarily a deep learning course.
 
 Special Topics in Data Science, DS-GA 3001.004/.005
 
