@@ -13,6 +13,8 @@ Thursdays from 12pm-12:50pm Location: Silver Center for Arts & Science, 100 Wash
 
 * Office hours: TBD
 
+* Piazza: piazza.com/nyu/spring2021/dsga3001004
+Please use Piazza to post questions about course, assignments, etc.
 
 ### Instructors
 
