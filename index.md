@@ -50,7 +50,7 @@ Due on May 2.
   * Structure from motion and 3D models from images
   * Object recognition - historical perspective
   * CNNs for object classification and detection
-  * 3D CNNs Application, Medical Imaging
+  * 3D CNNs, Applications in Medical Imaging
   * Weakly-supervised and unsupervised approaches to image and video interpretation 
 
 ### References:
