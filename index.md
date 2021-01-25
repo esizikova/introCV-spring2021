@@ -8,12 +8,17 @@ Special Topics in Data Science, DS-GA 3001.004/.005
 * DS-GA 3001.004 (Lecture) 
 Wednesdays 1pm-2:40pm 
 Location: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 461)
+Zoom Link: please log in to NYU classes to get a meeting ID
 
 * DS-GA 3001.005 (Lab) 
 Thursdays from 12pm-12:50pm 
 Location: Silver Center for Arts & Science, 100 Washington Sq East (SILV_101A)
+Zoom Link: please log in to NYU classes to get a meeting ID
+
 
 * Office hours: TBD
+
+
 
 
 ### Instructors
