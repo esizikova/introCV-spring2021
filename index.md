@@ -52,7 +52,7 @@ Due on Apr. 4.
 Due on May 2.
 * **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Elena to validate a project. 
 
-### Syllabus 
+### Syllabus <a name="Syllabus"></a>
   * Introduction
   * Camera geometry and calibration
   * Filtering and feature detection
