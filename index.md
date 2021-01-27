@@ -29,7 +29,7 @@ Labs will be used to cover additional materials or to work through practical exe
 * Office hours: TBD
 
 * Piazza Link: https://piazza.com/nyu/spring2021/dsga3001004  \
-Please try to post any questions about course logistics and material, HWs and project on Piazza. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
+Please try first to post any questions about course logistics and material, HWs and final project on Piazza. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
 
 
 ### Instructors
