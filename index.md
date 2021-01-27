@@ -73,7 +73,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 * R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004. (<a href="https://www.robots.ox.ac.uk/~vgg/hzbook/">Link</a>)
  
 <a name="Schedule"></a>
-##Schedule:
+### Schedule:
 
 *Note*: lecture slides will be posted after each lecture.
 
