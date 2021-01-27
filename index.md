@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228.jpg" width="230">
-  <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228_outline.jpg" width="230">
-  <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228_res_comb.jpg" width="230">
+  <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228.jpg" width="175">
+  <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228_outline.jpg" width="175">
+  <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228_res_comb.jpg" width="175">
  <br>
   Source: <a href="https://www.di.ens.fr/willow/research/inpainting/">Willow</a>
 </p>
