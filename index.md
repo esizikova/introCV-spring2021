@@ -42,13 +42,13 @@ Manjusha Mishra (mam1974@nyu.edu)
 Four programming assignments (60% of the grade) + final project (40% of the
 grade). Assignments should be submitted using the NYU class site.
 
-* **Excercise 1** on camera calibration.
+* **Excercise 1** on camera calibration ([zip file](/homeworks/homework1.zip)).
 Due on Feb. 21.
-* **Excercise 2** on Canny edge detector.
+* **Excercise 2** on Canny edge detector ([zip file](/homeworks/homework2.zip)).
 Due on Mar. 14.
-* **Excercise 3** on mean shift.
+* **Excercise 3** on mean shift ([zip file](/homeworks/homework3.zip)).
 Due on Apr. 4.
-* **Excercise 4** on neural networks. 
+* **Excercise 4** on neural networks ([ipynb notebook](/homeworks/homework4.ipynb)). 
 Due on May 2.
 * **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Elena to validate a project. 
 
