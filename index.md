@@ -26,9 +26,12 @@ Thursdays from 12pm-12:50pm \
 \
 Labs will be used to cover additional materials or to work through practical exercises with the TA. 
 
-* Office hours: TBD
+* **Office Hours**: \
+Jean Ponce: Tuesday, 2-3pm (please email for appointment) \
+Elena Sizikova: Monday, 11-12pm (please email for appointment)
 
-* Piazza Link: https://piazza.com/nyu/spring2021/dsga3001004  \
+
+* **Piazza Link**: https://piazza.com/nyu/spring2021/dsga3001004  \
 Please try first to post any questions about course logistics and material, HWs and final project on Piazza. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
 
 
