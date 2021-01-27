@@ -1,4 +1,3 @@
-<title>Introduction to Computer Vision Spring 2021</title>
 <p align="center">
   <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228.jpg" width="200">
   <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228_outline.jpg" width="200">
@@ -76,40 +75,25 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 *Note*: lecture slides will be posted after each lecture.
 
-| Date  | Lecture               |
-| ----- | --------------------- |
-| 01/28 | Lab                   |
-| 02/03 | Lecture 1             |
-| 02/04 | Lab                   |
-| 02/10 | Lecture 2             |
-| 02/11 | Lab                   |
-| 02/17 | Lecture 3             |
-| 02/21 | Exercise 1 DUE        |
-| 02/24 | Lecture 4             |
-| 02/25 | Lab                   |
-| 03/03 | Lecture 5             |
-| 03/04 | Lab                   |
-| 03/10 | Lecture 6             |
-| 03/11 | Lab                   |
-| 03/14 | Exercise 2 DUE        |
-| 03/17 | Lecture 7             |
-| 03/18 | Lab                   |
-| 03/24 | Lecture 8             |
-| 03/25 | Lab                   |
-| 03/31 | Lecture 9             |
-| 04/01 | Lab                   |
-| 04/04 | Exercise 3 DUE        |
-| 04/07 | Lecture 10            |
-| 04/08 | Lab                   |
-| 04/14 | Lecture 11            |
-| 04/15 | Lab                   |
-| 04/21 | Lecture 12            |
-| 04/22 | Lab                   |
-| 04/28 | Lecture 13            |
-| 04/29 | Lab                   |
-| 05/02 | Exercise 4 DUE        |
-| 05/05 | Lecture 14            |
-| 05/06 | Lab                   |
+| Date  | Lecture               |       | Date  | Lecture               |
+| ----- | --------------------- | ----- | ----- | --------------------- |
+| 01/28 | Lab: Course Intro     |       | 03/24 | Lecture 8             |
+| 02/03 | Lecture 1             |       | 03/25 | Lab                   |
+| 02/04 | Lab                   |       | 03/31 | Lecture 9             |
+| 02/10 | Lecture 2             |       | 04/01 | Lab                   |
+| 02/11 | Lab                   |       | 04/04 | Exercise 3 DUE        |
+| 02/17 | Lecture 3             |       | 04/07 | Lecture 10            |
+| 02/21 | Exercise 1 DUE        |       | 04/08 | Lab                   |
+| 02/24 | Lecture 4             |       | 04/14 | Lecture 11            |
+| 02/25 | Lab                   |       | 04/15 | Lab                   |
+| 03/03 | Lecture 5             |       | 04/21 | Lecture 12            |
+| 03/04 | Lab                   |       | 04/22 | Lab                   |
+| 03/10 | Lecture 6             |       | 04/28 | Lecture 13            |
+| 03/11 | Lab                   |       | 04/29 | Lab                   |
+| 03/14 | Exercise 2 DUE        |       | 05/02 | Exercise 4 DUE        |
+| 03/17 | Lecture 7             |       | 05/05 | Lecture 14            |
+| 03/18 | Lab                   |       | 05/06 | Lab                   |
+
 
 ### Acknowledgements
 Much of the material for this course relies on the Computer Vision course given at ENS Paris by Mathieu Aubry, Karteek Alahari, Ivan Laptev, and Josef Sivic. Many of the slides are taken from James Hays, Svetlana Lazebnik, and Derek Hoeim. Website was originally designed by Matthew Trager.
