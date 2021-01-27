@@ -7,24 +7,24 @@
   Source: <a href="https://www.di.ens.fr/willow/research/inpainting/">Willow</a>
 </p>
 
-Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision. This course is aims to cover a broad topics in computer vision, and is *not* primarily a deep learning course.
+Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision. This course is aims to cover a broad topics in computer vision, and is *not* primarily a deep learning course. We will covert topics in traditional computer vision such as camera geometry, image formation, segmentation, object recognition/classification/detection (see [Syllabus]((#syllabus))).
 
 Special Topics in Data Science, DS-GA 3001.004/.005
 
 ### Logistics
 
-* DS-GA 3001.004 (Lecture) 
-Wednesdays 1pm-2:40pm 
-**Location**: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 461)
-**Zoom Link**: please log in to NYU classes to get a meeting ID
-
+* DS-GA 3001.004 (Lecture) \
+Wednesdays 1pm-2:40pm  \
+**Location**: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 461)   \
+**Zoom Link**: please log in to NYU classes to get a meeting ID \
+\
 Please join the lecture in person or on Zoom. Slides will be available after the class.
 
-* DS-GA 3001.005 (Lab) 
-Thursdays from 12pm-12:50pm 
-**Location**: Silver Center for Arts & Science, 100 Washington Sq East (SILV_101A)
-**Zoom Link**: please log in to NYU classes to get a meeting ID
-
+* DS-GA 3001.005 (Lab) \
+Thursdays from 12pm-12:50pm \
+**Location**: Silver Center for Arts & Science, 100 Washington Sq East (SILV_101A) \
+**Zoom Link**: please log in to NYU classes to get a meeting ID \
+\
 Labs will be used to cover additional materials or to work through practical exercises with the TA. 
 
 * Office hours: TBD
@@ -53,7 +53,7 @@ Due on Apr. 4.
 Due on May 2.
 * **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Elena to validate a project. 
 
-### Syllabus
+### Syllabus <a name="syllabus"></a>
   * Introduction
   * Camera geometry and calibration
   * Filtering and feature detection
@@ -67,9 +67,10 @@ Due on May 2.
   * Weakly-supervised and unsupervised approaches to image and video interpretation 
 
 ### References:
-* D.A. Forsyth and J. Ponce, “Computer Vision: A Modern Approach”, second edition, Pearson, 2011.
-* R. Szeliski, “Computer Vision: Algorithms and Applications”. (PDF)
-* R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004.
+We do not require purchase of any textbooks and the course will be self-contained. You may wish to consult the resources below for additional material formalization. \
+* D.A. Forsyth and J. Ponce, “Computer Vision: A Modern Approach”, second edition, Pearson, 2011. (<a href="https://www.pearson.com/us/higher-education/program/Forsyth-Computer-Vision-A-Modern-Approach-2nd-Edition/PGM111082.html">Link</a>)
+* R. Szeliski, “Computer Vision: Algorithms and Applications”. (<a href="http://szeliski.org/Book/">PDF</a>)
+* R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004. (<a href="https://www.robots.ox.ac.uk/~vgg/hzbook/">Link</a>)
   
 ## Course Schedule:
 
