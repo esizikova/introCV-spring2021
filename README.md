@@ -3,6 +3,25 @@ Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision
 
 Special Topics in Data Science, DS-GA 3001.004/.005
 
+### Syllabus
+  * Introduction
+  * Camera geometry and calibration
+  * Filtering and feature detection
+  * Radiometry and color
+  * Texture and image segmentation
+  * Stereopsis
+  * Structure from motion and 3D models from images
+  * Object recognition - historical perspective
+  * CNNs for object classification and detection
+  * 3D CNNs Application, Medical Imaging
+  * Weakly-supervised and unsupervised approaches to image and video interpretation 
+
+### References:
+	•	D.A. Forsyth and J. Ponce, “Computer Vision: A Modern Approach”, second edition, Pearson, 2011.
+	•	R. Szeliski, “Computer Vision: Algorithms and Applications”. (PDF)
+	•	R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004.
+
+
 ### Logistics
 
 * DS-GA 3001.004 (Lecture) 
@@ -39,24 +58,6 @@ Due on Apr. 4.
 * **Excercise 4** on neural networks.
 Due on May 2.
 * **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Elena to validate a project. 
-
-### Syllabus
-  * Introduction
-  * Camera geometry and calibration
-  * Filtering and feature detection
-  * Radiometry and color
-  * Texture and image segmentation
-  * Stereopsis
-  * Structure from motion and 3D models from images
-  * Object recognition - historical perspective
-  * CNNs for object classification and detection
-  * 3D CNNs Application, Medical Imaging
-  * Weakly-supervised and unsupervised approaches to image and video interpretation 
-
-### References:
-	•	D.A. Forsyth and J. Ponce, “Computer Vision: A Modern Approach”, second edition, Pearson, 2011.
-	•	R. Szeliski, “Computer Vision: Algorithms and Applications”. (PDF)
-	•	R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004.
   
 ## Course Schedule: 
   | Date | Lecture | Slide Link (will be posted after lecture) |
