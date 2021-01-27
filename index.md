@@ -1,4 +1,4 @@
-<center><h1>Introduction to Computer Vision Spring 2021</h1></center>
+### Introduction to Computer Vision Spring 2021
 <p align="center">
   <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228.jpg" width="200">
   <img src="https://www.di.ens.fr/willow/research/inpainting/images/new_000228/new_000228_outline.jpg" width="200">
