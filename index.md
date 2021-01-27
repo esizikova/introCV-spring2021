@@ -6,7 +6,7 @@
   Source: <a href="https://www.di.ens.fr/willow/research/inpainting/">Willow</a>
 </p>
 
-Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision. This course is aims to cover a broad topics in computer vision, and is *not* primarily a deep learning course. We will covert topics in traditional computer vision such as camera geometry, image formation, segmentation, object recognition, classification, and detection (see [Syllabus]((#syllabus))).
+Course webpage for the NYU Spring 2021 Course: Introduction to Computer Vision. This course is aims to cover a broad topics in computer vision, and is *not* primarily a deep learning course. We will covert topics in traditional computer vision such as camera geometry, image formation, segmentation, object recognition, classification, and detection (see [Syllabus]((#Syllabus))).
 
 Special Topics in Data Science, DS-GA 3001.004/.005
 
@@ -17,7 +17,7 @@ Wednesdays 1pm-2:40pm  \
 **Location**: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 461)   \
 **Zoom Link**: please log in to NYU classes to get a meeting ID \
 \
-Please join the lecture in person or on Zoom. Slides will be available after the class. (see [Schedule]((#schedule))).
+Please join the lecture in person or on Zoom. Slides will be available after the class. (see [Schedule]((#Schedule))).
 
 * DS-GA 3001.005 (Lab) \
 Thursdays from 12pm-12:50pm \
@@ -52,7 +52,7 @@ Due on Apr. 4.
 Due on May 2.
 * **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Elena to validate a project. 
 
-### Syllabus <a name="syllabus"></a>
+### Syllabus 
   * Introduction
   * Camera geometry and calibration
   * Filtering and feature detection
@@ -71,7 +71,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 * R. Szeliski, “Computer Vision: Algorithms and Applications”. (<a href="http://szeliski.org/Book/">PDF</a>)
 * R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004. (<a href="https://www.robots.ox.ac.uk/~vgg/hzbook/">Link</a>)
   
-## Course Schedule: <a name="schedule"></a>
+##Schedule:
 
 *Note*: lecture slides will be posted after each lecture.
 
