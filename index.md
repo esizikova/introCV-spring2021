@@ -28,6 +28,10 @@ Labs will be used to cover additional materials or to work through practical exe
 
 * Office hours: TBD
 
+* Piazza Link: https://piazza.com/nyu/spring2021/dsga3001004  \
+Please try to post any questions about course logistics andmaterial, HWs and project on Piazza. We also highly encourage you to help each other out (but please do not reveal answers). For additional questions, please email course staff.
+
+
 ### Instructors
 
 <a href="https://www.di.ens.fr/~ponce/">Jean Ponce</a> (jean.ponce@inria.fr)  
