@@ -67,7 +67,8 @@ Due on May 2.
   * Weakly-supervised and unsupervised approaches to image and video interpretation 
 
 ### References:
-We do not require purchase of any textbooks and the course will be self-contained. You may wish to consult the resources below for additional material formalization. \
+We do not require purchase of any textbooks and the course will be self-contained. You may wish to consult the resources below for additional material formalization. 
+
 * D.A. Forsyth and J. Ponce, “Computer Vision: A Modern Approach”, second edition, Pearson, 2011. (<a href="https://www.pearson.com/us/higher-education/program/Forsyth-Computer-Vision-A-Modern-Approach-2nd-Edition/PGM111082.html">Link</a>)
 * R. Szeliski, “Computer Vision: Algorithms and Applications”. (<a href="http://szeliski.org/Book/">PDF</a>)
 * R. Hartley and A. Zisserman, “Multiple View Geometry in Computer Vision”, Cambridge University Press, 2004. (<a href="https://www.robots.ox.ac.uk/~vgg/hzbook/">Link</a>)
