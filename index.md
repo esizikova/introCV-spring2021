@@ -88,7 +88,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | Date  | Lecture               | Link                                                                                          | Date  | Lecture               |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------- | ----- | --------------------- |
 | 01/28 | Lab: Course Intro     | <a href="lectures/lect1.pptx">Lecture</a> <a href="lectures/logistics.pdf">Logistics</a>      | 03/24 | Lecture 8             |
-| 02/03 | Lecture 1             |                                                                                               | 03/25 | Lab                   |
+| 02/03 | Lecture 1             | <a href="lectures/lect2.pptx">Lecture</a>                                                     | 03/25 | Lab                   |
 | 02/04 | Lab                   |                                                                                               | 03/31 | Lecture 9             |
 | 02/10 | Lecture 2             |                                                                                               | 04/01 | Lab                   |
 | 02/11 | Lab                   |                                                                                               | 04/04 | Exercise 3 DUE        |
