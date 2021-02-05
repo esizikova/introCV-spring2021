@@ -57,7 +57,7 @@ Due on Mar. 14.
 Due on Apr. 4.
 * **Excercise 4** on neural networks ([ipynb notebook](/homeworks/homework4.ipynb)). 
 Due on May 2.
-* **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/15wjCUedE69u1c5ijW3S407oxISkLNlnHvB8ztOSvUUg/edit?usp=sharing). Send an email to Elena to validate a project. 
+* **Final project:** list of suggested papers is available [here](https://docs.google.com/document/d/1_YFp39tF3h811AzrQ32mbQgN4nSp7aA2fjZfQhVNiYE/edit?usp=sharing). Send an email to Elena to validate a project. 
 
 <a name="Syllabus"></a>
 ### Syllabus 
