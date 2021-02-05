@@ -89,7 +89,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | ----- | --------------------- | --------------------------------------------------------------------------------------------- | ----- | --------------------- |
 | 01/28 | Lab: Course Intro     | <a href="http://www.di.ens.fr/~ponce/lect1.pptx">Lecture</a> <a href="lectures/logistics.pdf">Logistics</a>      | 03/24 | Lecture 8             |
 | 02/03 | Lecture 1             | <a href="http://www.di.ens.fr/~ponce/lect2.pptx">Lecture</a>                                                     | 03/25 | Lab                   |
-| 02/04 | Lab                   |                                                                                               | 03/31 | Lecture 9             |
+| 02/04 | Lab                   | <a href="https://drive.google.com/file/d/1GGoqXj0TlIVn_tC1FOTDzkw2RKhhTB37/view?usp=sharing">Lecture</a>                                                     | 03/31 | Lecture 9             |
 | 02/10 | Lecture 2             |                                                                                               | 04/01 | Lab                   |
 | 02/11 | Lab                   |                                                                                               | 04/04 | Exercise 3 DUE        |
 | 02/17 | Lecture 3             |                                                                                               | 04/07 | Lecture 10            |
