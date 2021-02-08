@@ -40,7 +40,7 @@ Please try first to post any questions about course logistics and material, HWs 
 <a href="https://www.di.ens.fr/~ponce/">Jean Ponce</a> (jean.ponce@inria.fr)  
 <a href="https://esizikova.github.io">Elena Sizikova</a> (es5223@nyu.edu)
 
-### TAs:  
+### TAs
 Aryaa Singh (as13538@nyu.edu)  
 Manjusha Mishra (mam1974@nyu.edu)
 
