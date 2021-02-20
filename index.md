@@ -92,7 +92,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/04 | Lab                   | <a href="https://drive.google.com/file/d/1GGoqXj0TlIVn_tC1FOTDzkw2RKhhTB37/view?usp=sharing">Lecture</a>                                                     | 03/31 | Lecture 9             |
 | 02/10 | Lecture 2             | <a href="https://drive.google.com/file/d/1xspkXD5geGu678MyRcoj-uw3_rVKAUSd/view?usp=sharing">Lecture P1</a> and <a href="https://drive.google.com/file/d/1al1F7Nkdtpo_F6oTKaefFWeRlVhWCXao/view?usp=sharing"> Lecture P2</a>                                                                                              | 04/01 | Lab                   |
 | 02/11 | Lab                   |                                                                                               | 04/04 | Exercise 3 DUE        |
-| 02/17 | Lecture 3             |                                                                                               | 04/07 | Lecture 10            |
+| 02/17 | Lecture 3             | <a href="https://drive.google.com/file/d/1173gZKWAig-eDq59YP6wNP073snDGMVT/view?usp=sharing">Lecture</a>                                                                                              | 04/07 | Lecture 10            |
 | 02/21 | Exercise 1 DUE        |                                                                                               | 04/08 | Lab                   |
 | 02/24 | Lecture 4             |                                                                                               | 04/14 | Lecture 11            |
 | 02/25 | Lab                   |                                                                                               | 04/15 | Lab                   |
