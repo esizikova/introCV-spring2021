@@ -51,9 +51,9 @@ grade). Assignments should be submitted using the NYU class site.
 
 * **Excercise 1** on camera calibration ([zip file](/homeworks/homework1.zip)).
 Due on Feb. 21.
-* **Excercise 2** on Canny edge detector ([zip file](/homeworks/homework2.zip)).
+* **Excercise 2** on Canny edge detector ([zip file](/homeworks/homework2.zip)). Skeleton code [link](https://drive.google.com/file/d/1lRKhITglm_vktU0WlqYlQQm3RPoqmGMc/view?usp=sharing). 
 Due on Mar. 14.
-* **Excercise 3** on mean shift ([zip file](/homeworks/homework3.zip)).
+* **Excercise 3** on mean shift ([zip file](/homeworks/homework3.zip)). Skeleton code [link](https://drive.google.com/file/d/1m_8YV-0VFTrUgsCEkpwjXU8tkH6XGdVt/view?usp=sharing). 
 Due on Apr. 4.
 * **Excercise 4** on neural networks ([ipynb notebook](/homeworks/homework4.ipynb)). 
 Due on May 2.
