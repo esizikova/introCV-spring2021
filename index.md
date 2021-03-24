@@ -85,24 +85,40 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 *Note*: lecture slides will be posted after each lecture.
 
-| Date  | Lecture               | Link                                                                                          | Date  | Lecture               |
-| ----- | --------------------- | --------------------------------------------------------------------------------------------- | ----- | --------------------- |
-| 01/28 | Lab: Course Intro     | <a href="https://drive.google.com/file/d/1Tn1-kEBtDKbnQCyahhFCGyQ_ZPqXs9zq/view?usp=sharing">Lecture</a> <a href="https://drive.google.com/file/d/16oKZnB7DGok3E3HPI23wQg8UdmtGhqFL/view?usp=sharing">Logistics</a>      | 03/24 | Lecture 8             |
-| 02/03 | Lecture 1             | <a href="https://drive.google.com/file/d/1vHtN0QPGRr1YbBcqi0kSofE9SVefGuRs/view?usp=sharing">Lecture</a>                                                     | 03/25 | Lab                   |
-| 02/04 | Lab                   | <a href="https://drive.google.com/file/d/1GGoqXj0TlIVn_tC1FOTDzkw2RKhhTB37/view?usp=sharing">Lecture</a>                                                     | 03/31 | Lecture 9             |
-| 02/10 | Lecture 2             | <a href="https://drive.google.com/file/d/1xspkXD5geGu678MyRcoj-uw3_rVKAUSd/view?usp=sharing">Lecture P1</a> and <a href="https://drive.google.com/file/d/1al1F7Nkdtpo_F6oTKaefFWeRlVhWCXao/view?usp=sharing"> Lecture P2</a>                                                                                              | 04/01 | Lab                   |
-| 02/11 | Lab                   | <a href="https://colab.research.google.com/drive/1EjXhlIKafUG28vDwkZOEhCd-jhoa1nKP?usp=sharing">Notebook Link</a>                                                                                               | 04/04 | Exercise 3 DUE        |
-| 02/17 | Lecture 3             | <a href="https://drive.google.com/file/d/1173gZKWAig-eDq59YP6wNP073snDGMVT/view?usp=sharing">Lecture</a>                                                                                              | 04/07 | Lecture 10            |
-| 02/21 | Exercise 1 DUE        |                                                                                               | 04/08 | Lab                   |
-| 02/24 | Lecture 4             | <a href="https://drive.google.com/file/d/1CeUNx0fao7zdFUGr4oyXNrJw9J2KVdrG/view?usp=sharing">Lecture</a>                                                                                              | 04/14 | Lecture 11            |
-| 02/25 | Lab                   | <a href="https://colab.research.google.com/drive/1IvwUBgjDR9DSstSRP7YplUybcbty3Khq?usp=sharing">Notebook Link</a>                                                                                              | 04/15 | Lab                   |
-| 03/03 | Lecture 5             | <a href="https://drive.google.com/file/d/1Ak_lO6MIjctbXI8oEYvv_P0nnl0-W9n3/view?usp=sharing">Lecture</a>                                                                                               | 04/21 | Lecture 12            |
-| 03/04 | Lab                   | <a href="https://drive.google.com/file/d/1Rj90i1CE0vVN53drYeOXpCeNCi6SsngR/view?usp=sharing">Lecture</a>                                                                                               | 04/22 | Lab                   |
-| 03/10 | Lecture 6             | <a href="https://drive.google.com/file/d/1-SNFft1mLRAZusyz7hcrHaHPj4GSi37c/view?usp=sharing">Lecture</a>                                                                                               | 04/28 | Lecture 13            |
-| 03/11 | Lab                   | <a href="https://drive.google.com/file/d/1lRKhITglm_vktU0WlqYlQQm3RPoqmGMc/view?usp=sharing">Lab</a>                                                                                               | 04/29 | Lab                   |
-| 03/14 | Exercise 2 DUE        |                                                                                               | 05/02 | Exercise 4 DUE        |
-| 03/17 | Lecture 7             | <a href="https://drive.google.com/file/d/1b273t0a56YJNFnhRsT7WH_go1UhQDO9c/view?usp=sharing">Lecture</a>                                                                                               | 05/05 | Lecture 14            |
-| 03/18 | Lab                   |                                                                                               | 05/06 | Lab                   |
+| Date  | Lecture               | Topic | Link                                                                                          |
+| ----- | --------------------- | ------| --------------------------------------------------------------------------------------------- |
+| 01/28 | Lab: Course Intro     | Introduction, Logistics       | <a href="https://drive.google.com/file/d/1Tn1-kEBtDKbnQCyahhFCGyQ_ZPqXs9zq/view?usp=sharing">Intro-PPTX</a> <br ><a href="https://drive.google.com/file/d/16oKZnB7DGok3E3HPI23wQg8UdmtGhqFL/view?usp=sharing">Logistics-PDF</a> |
+| 02/03 | Lecture 1             | Examples of vision tasks, camera geometry and calibration      | <a href="https://drive.google.com/file/d/1vHtN0QPGRr1YbBcqi0kSofE9SVefGuRs/view?usp=sharing">Lecture [PPTX]</a> |
+| 02/04 | Lab                   | A detour of sensing country, intrinsic and extrinsic parameters      | <a href="https://drive.google.com/file/d/1GGoqXj0TlIVn_tC1FOTDzkw2RKhhTB37/view?usp=sharing">Lecture [PPTX]</a> |
+| 02/10 | Lecture 2             | Linear calibration, analytic photogrammetry, filtering       | <a href="https://drive.google.com/file/d/1xspkXD5geGu678MyRcoj-uw3_rVKAUSd/view?usp=sharing">Lecture Part 1 [PPTX]</a> <br> <a href="https://drive.google.com/file/d/1al1F7Nkdtpo_F6oTKaefFWeRlVhWCXao/view?usp=sharing"> Lecture P2 [PDF]</a>  |
+| 02/11 | Lab                   | Image Stitching Exercise      | <a href="https://colab.research.google.com/drive/1EjXhlIKafUG28vDwkZOEhCd-jhoa1nKP?usp=sharing">Notebook Link</a> |
+| 02/17 | Lecture 3             | Edge detection, keypoints and features, RANSAC, Hough transform      | <a href="https://drive.google.com/file/d/1173gZKWAig-eDq59YP6wNP073snDGMVT/view?usp=sharing">Lecture [PDF]</a> |
+| 02/21 | Exercise 1 DUE        |                                                                                                |
+| 02/24 | Lecture 4             | Texture, Segmentation      | <a href="https://drive.google.com/file/d/1CeUNx0fao7zdFUGr4oyXNrJw9J2KVdrG/view?usp=sharing">Lecture [PDF]</a>  |
+| 02/25 | Lab                   | Edge Detection using Sobel Operator      | <a href="https://colab.research.google.com/drive/1IvwUBgjDR9DSstSRP7YplUybcbty3Khq?usp=sharing">Notebook Link</a> |
+| 03/03 | Lecture 5             | Radiometry and Color, Part 1     | <a href="https://drive.google.com/file/d/1Ak_lO6MIjctbXI8oEYvv_P0nnl0-W9n3/view?usp=sharing">Lecture [PPTX]</a>  |
+| 03/04 | Lab                   | Radiometry and Color, Part 1      | <a href="https://drive.google.com/file/d/1Rj90i1CE0vVN53drYeOXpCeNCi6SsngR/view?usp=sharing">Lecture [PPTX]</a> |
+| 03/10 | Lecture 6             | Color      | <a href="https://drive.google.com/file/d/1-SNFft1mLRAZusyz7hcrHaHPj4GSi37c/view?usp=sharing">Lecture</a> |
+| 03/11 | Lab                   | Canny Edge Detection Skeleton Code      | <a href="https://drive.google.com/file/d/1lRKhITglm_vktU0WlqYlQQm3RPoqmGMc/view?usp=sharing">Lab</a> |
+| 03/14 | Exercise 2 DUE        |                                                                                               | |
+| 03/17 | Lecture 7             | Stereopsis, Epipolar Geometry, Essential and Fundamental Matrices      | <a href="https://drive.google.com/file/d/1b273t0a56YJNFnhRsT7WH_go1UhQDO9c/view?usp=sharing">Lecture</a> |
+| 03/18 | Lab                   |      |  |
+| 03/24 | Lecture 8             | Eight-point Algorithm, Correlation-based stereo, more sophisticated methods     | Lecture<a href="https://drive.google.com/file/d/1aB8usdbFCGkV7LBS6qmBRFYjBybJVM9Q/view?usp=sharing">[PDF]</a> <a href="https://drive.google.com/file/d/1LvHL7QmTddhSJ3WU3n37MTWGb4wCndTg/view?usp=sharing">[Key]</a>  |
+| 03/25 | Lab                   |      |  |
+| 03/31 | Lecture 9                   |      |  |
+| 04/01 | Lab                   |      |  |
+| 04/04 | Exercise 3 DUE        |                                                                                               | |
+| 04/07 | Lecture 10                   |      |  |
+| 04/08 | Lab                   |      |  |
+| 04/14 | Lecture 11                   |      |  |
+| 04/15 | Lab                   |      |  |
+| 04/21 | Lecture 12                   |      |  |
+| 04/22 | Lab                   |      |  |
+| 04/28 | Lecture 13                   |      |  |
+| 04/29 | Lab                   |      |  |
+| 05/02 | Exercise 4 DUE        |                                                                                               | |
+| 05/05 | Lecture 14                   |      |  |
+| 05/06 | Lab                   |      |  |
 
 
 ### Acknowledgements
