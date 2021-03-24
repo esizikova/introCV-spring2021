@@ -87,7 +87,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 
 | Date  | Lecture               | Topic | Link                                                                                          |
 | ----- | --------------------- | ------| --------------------------------------------------------------------------------------------- |
-| 01/28 | Lab: Course Intro     | Introduction, Logistics       | <a href="https://drive.google.com/file/d/1Tn1-kEBtDKbnQCyahhFCGyQ_ZPqXs9zq/view?usp=sharing">Intro-PPTX</a> <br ><a href="https://drive.google.com/file/d/16oKZnB7DGok3E3HPI23wQg8UdmtGhqFL/view?usp=sharing">Logistics-PDF</a> |
+| 01/28 | Lab: Course Intro     | Introduction, Logistics       | Intro<a href="https://drive.google.com/file/d/1Tn1-kEBtDKbnQCyahhFCGyQ_ZPqXs9zq/view?usp=sharing">[PPTX]</a> <a href="https://drive.google.com/file/d/1WyqvvL7qyhyHG6OMiZJ9uOeRICCZhIPy/view?usp=sharing">[PDF]</a> <br > Logistics <a href="https://drive.google.com/file/d/16oKZnB7DGok3E3HPI23wQg8UdmtGhqFL/view?usp=sharing">[PDF]</a> <a href="https://drive.google.com/file/d/1n2UFZy5v2akBCH0Xkv4K0fCFvQPIt2Kl/view?usp=sharing">[Key]</a> |
 | 02/03 | Lecture 1             | Examples of vision tasks, camera geometry and calibration      | <a href="https://drive.google.com/file/d/1vHtN0QPGRr1YbBcqi0kSofE9SVefGuRs/view?usp=sharing">Lecture [PPTX]</a> |
 | 02/04 | Lab                   | A detour of sensing country, intrinsic and extrinsic parameters      | <a href="https://drive.google.com/file/d/1GGoqXj0TlIVn_tC1FOTDzkw2RKhhTB37/view?usp=sharing">Lecture [PPTX]</a> |
 | 02/10 | Lecture 2             | Linear calibration, analytic photogrammetry, filtering       | <a href="https://drive.google.com/file/d/1xspkXD5geGu678MyRcoj-uw3_rVKAUSd/view?usp=sharing">Lecture Part 1 [PPTX]</a> <br> <a href="https://drive.google.com/file/d/1al1F7Nkdtpo_F6oTKaefFWeRlVhWCXao/view?usp=sharing"> Lecture P2 [PDF]</a>  |
@@ -97,7 +97,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 02/24 | Lecture 4             | Texture, Segmentation      | <a href="https://drive.google.com/file/d/1CeUNx0fao7zdFUGr4oyXNrJw9J2KVdrG/view?usp=sharing">Lecture [PDF]</a>  |
 | 02/25 | Lab                   | Edge Detection using Sobel Operator      | <a href="https://colab.research.google.com/drive/1IvwUBgjDR9DSstSRP7YplUybcbty3Khq?usp=sharing">Notebook Link</a> |
 | 03/03 | Lecture 5             | Radiometry and Color, Part 1     | <a href="https://drive.google.com/file/d/1Ak_lO6MIjctbXI8oEYvv_P0nnl0-W9n3/view?usp=sharing">Lecture [PPTX]</a>  |
-| 03/04 | Lab                   | Radiometry and Color, Part 1      | <a href="https://drive.google.com/file/d/1Rj90i1CE0vVN53drYeOXpCeNCi6SsngR/view?usp=sharing">Lecture [PPTX]</a> |
+| 03/04 | Lab                   | Radiometry and Color, Part 2      | <a href="https://drive.google.com/file/d/1Rj90i1CE0vVN53drYeOXpCeNCi6SsngR/view?usp=sharing">Lecture [PPTX]</a> |
 | 03/10 | Lecture 6             | Color      | <a href="https://drive.google.com/file/d/1-SNFft1mLRAZusyz7hcrHaHPj4GSi37c/view?usp=sharing">Lecture</a> |
 | 03/11 | Lab                   | Canny Edge Detection Skeleton Code      | <a href="https://drive.google.com/file/d/1lRKhITglm_vktU0WlqYlQQm3RPoqmGMc/view?usp=sharing">Lab</a> |
 | 03/14 | Exercise 2 DUE        |                                                                                               | |
