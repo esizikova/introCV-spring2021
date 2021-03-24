@@ -102,7 +102,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/11 | Lab                   | Canny Edge Detection Skeleton Code      | <a href="https://drive.google.com/file/d/1lRKhITglm_vktU0WlqYlQQm3RPoqmGMc/view?usp=sharing">Notebook Link</a> |
 | 03/14 | Exercise 2 DUE        |                                                                                               | |
 | 03/17 | Lecture 7             | Stereopsis, Epipolar Geometry, Essential and Fundamental Matrices      | Lecture <a href="https://drive.google.com/file/d/1b273t0a56YJNFnhRsT7WH_go1UhQDO9c/view?usp=sharing">[PPT]</a> <a href="https://drive.google.com/file/d/1YoyS0ra90qJqtLFHlEgrCfCq_38bZDMP/view?usp=sharing">[PDF]</a> |
-| 03/18 | Lab                   |      |  |
+| 03/18 | Lab                   | Fundamental Matrix Esimation     | <a href="https://colab.research.google.com/drive/1wdSES0cJ2AMHko-G8x1Voxhz8M1hvZVh?usp=sharing">Notebook Link</a> |
 | 03/24 | Lecture 8             | Eight-point Algorithm, Correlation-based stereo, more sophisticated methods     | Lecture <a href="https://drive.google.com/file/d/1LvHL7QmTddhSJ3WU3n37MTWGb4wCndTg/view?usp=sharing">[Key]</a> <a href="https://drive.google.com/file/d/1aB8usdbFCGkV7LBS6qmBRFYjBybJVM9Q/view?usp=sharing">[PDF]</a>  |
 | 03/25 | Lab                   |      |  |
 | 03/31 | Lecture 9                   |      |  |
