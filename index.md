@@ -105,7 +105,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/18 | Lab                   | Fundamental Matrix Esimation     | <a href="https://colab.research.google.com/drive/1wdSES0cJ2AMHko-G8x1Voxhz8M1hvZVh?usp=sharing">Notebook Link</a> |
 | 03/24 | Lecture 8             | Eight-point Algorithm, Correlation-based stereo, more sophisticated methods     | Lecture <a href="https://drive.google.com/file/d/1LvHL7QmTddhSJ3WU3n37MTWGb4wCndTg/view?usp=sharing">[Key]</a> <a href="https://drive.google.com/file/d/1aB8usdbFCGkV7LBS6qmBRFYjBybJVM9Q/view?usp=sharing">[PDF]</a>  |
 | 03/25 | Lab                   |      |  |
-| 03/31 | Lecture 9                   |      |  |
+| 03/31 | Lecture 9                   | Structure from Motion     | Lecture <a href="https://drive.google.com/file/d/1QsuiTvSz4yCN-l1kI1uCcuPus-t358P9/view?usp=sharing">[PPT]</a> <a href="https://drive.google.com/file/d/1F9-P2iHBnpNuboVhhVMjujGl1raUpsv2/view?usp=sharing">[PDF]</a>  |
 | 04/01 | Lab                   |      |  |
 | 04/04 | Exercise 3 DUE        |                                                                                               | |
 | 04/07 | Lecture 10                   |      |  |
