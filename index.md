@@ -108,7 +108,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 03/31 | Lecture 9                   | Structure from Motion     | Lecture <a href="https://drive.google.com/file/d/1mgiT5WhEUEp-enBEd8DNaZ3ClKCCGPkv/view?usp=sharing">[PPT]</a> <a href="https://drive.google.com/file/d/1X89BJqVhwiLsJs8g01M6jrnB_6Y2bNm5/view?usp=sharing">[PDF]</a>  |
 | 04/01 | Lab                   |      |  |
 | 04/04 | Exercise 3 DUE        |                                                                                               | |
-| 04/07 | Lecture 10                   |      |  |
+| 04/07 | Lecture 10                   | Affine and Projective SfM     | Lecture <a href="https://drive.google.com/file/d/1-1dJSMNnJNZqdQ_gN1FtaCoULD49uekW/view?usp=sharing">[PPT]</a> <a href="https://drive.google.com/file/d/1rvcRDtFZ9gwgiQhTDZQtTiRbcFWJ2r4J/view?usp=sharing">[PDF]</a>  |
 | 04/08 | Lab                   |      |  |
 | 04/14 | Lecture 11                   |      |  |
 | 04/15 | Lab                   |      |  |
