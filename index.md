@@ -110,7 +110,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/04 | Exercise 3 DUE        |                                                                                               | |
 | 04/07 | Lecture 10                   | Affine and Projective SfM     | Lecture <a href="https://drive.google.com/file/d/1-1dJSMNnJNZqdQ_gN1FtaCoULD49uekW/view?usp=sharing">[PPT]</a> <a href="https://drive.google.com/file/d/1rvcRDtFZ9gwgiQhTDZQtTiRbcFWJ2r4J/view?usp=sharing">[PDF]</a>  |
 | 04/08 | Lab                   |      |  |
-| 04/14 | Lecture 11                   |      |  |
+| 04/14 | Lecture 11                   | SfM, Laser Scanning, Space Carving, Multiview Stereo     | <a href="https://drive.google.com/file/d/1KPAHEbzzJ4AAB2gdH2K_a-RkC4cMlPbC/view?usp=sharing">P1[PPT]</a> <a href="https://drive.google.com/file/d/16pdZY6NtYnVuI8SA4fPIV9S6j7bRhSni/view?usp=sharing">P1[PDF]</a> <br><a href="https://drive.google.com/file/d/1NldsCrgHM_AkypkX21bvDaDGHDm8aTdo/view?usp=sharing">P2[Key]</a> <a href="https://drive.google.com/file/d/1X8_MduxIVyjL1ZUztAFhZM3qo5PHUsut/view?usp=sharing">P2[PDF]</a>|
 | 04/15 | Lab                   |      |  |
 | 04/21 | Lecture 12                   |      |  |
 | 04/22 | Lab                   |      |  |
