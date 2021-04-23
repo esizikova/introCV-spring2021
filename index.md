@@ -112,7 +112,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/08 | Lab                   |      |  |
 | 04/14 | Lecture 11                   | SfM, Laser Scanning, Space Carving, Multiview Stereo     | <a href="https://drive.google.com/file/d/1KPAHEbzzJ4AAB2gdH2K_a-RkC4cMlPbC/view?usp=sharing">P1[PPT]</a> <a href="https://drive.google.com/file/d/16pdZY6NtYnVuI8SA4fPIV9S6j7bRhSni/view?usp=sharing">P1[PDF]</a> <br><a href="https://drive.google.com/file/d/1NldsCrgHM_AkypkX21bvDaDGHDm8aTdo/view?usp=sharing">P2[Key]</a> <a href="https://drive.google.com/file/d/1X8_MduxIVyjL1ZUztAFhZM3qo5PHUsut/view?usp=sharing">P2[PDF]</a>|
 | 04/15 | Lab                   | ICP Implementation     | <a href="https://colab.research.google.com/drive/1WFJaFRikxaMykmVQ5D5-K6j6wMqSNUP6?usp=sharing">Notebook Link</a>  |
-| 04/21 | Lecture 12                   |      |  |
+| 04/21 | Lecture 12                   | Visual Recognition, Intro to NN     | <a href="https://drive.google.com/file/d/1KFC7BQstFijlMF4hJyBHnSJXE_TpZUoN/view?usp=sharing">P1[PPT]</a> <a href="https://drive.google.com/file/d/11BLIxMGWbcOTuQj12qokESKEh7D-7pbO/view?usp=sharing">P1[PDF]</a> <br><a href="https://drive.google.com/file/d/1zi32Jzp4CvUlnMoNA4y3DGz_m0y_6KZV/view?usp=sharing">P2[Key]</a> <a href="https://drive.google.com/file/d/1-Bt8RJbQbTNtjlsbv4ERnunsK2VXLR2C/view?usp=sharing">P2[PDF]</a>  |
 | 04/22 | Lab                   |      |  |
 | 04/28 | Lecture 13                   |      |  |
 | 04/29 | Lab                   |      |  |
