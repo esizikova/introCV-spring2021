@@ -114,7 +114,7 @@ We do not require purchase of any textbooks and the course will be self-containe
 | 04/15 | Lab                   | ICP Implementation     | <a href="https://colab.research.google.com/drive/1WFJaFRikxaMykmVQ5D5-K6j6wMqSNUP6?usp=sharing">Notebook Link</a>  |
 | 04/21 | Lecture 12                   | Visual Recognition, Intro to NN     | <a href="https://drive.google.com/file/d/1KFC7BQstFijlMF4hJyBHnSJXE_TpZUoN/view?usp=sharing">P1[PPT]</a> <a href="https://drive.google.com/file/d/11BLIxMGWbcOTuQj12qokESKEh7D-7pbO/view?usp=sharing">P1[PDF]</a> <br><a href="https://drive.google.com/file/d/1zi32Jzp4CvUlnMoNA4y3DGz_m0y_6KZV/view?usp=sharing">P2[Key]</a> <a href="https://drive.google.com/file/d/1-Bt8RJbQbTNtjlsbv4ERnunsK2VXLR2C/view?usp=sharing">P2[PDF]</a>  |
 | 04/22 | Lab                   | VAE Implementation     | <a href="https://colab.research.google.com/drive/1RQazHNVHvFmn2k3b0AR1mpy5J3MCx_U5?usp=sharing">Notebook Link</a>   |
-| 04/28 | Lecture 13                   |      |  |
+| 04/28 | Lecture 13                   | CNN Recognition and Detection     | Lecture <a href="https://drive.google.com/file/d/1F3XCTLRmgh1U24btuXN1nZYMm466ciCh/view?usp=sharing">[Key]</a> <a href="https://drive.google.com/file/d/1i6ppJPpmBecAO9By9QitW7FT1JtE4Gz0/view?usp=sharing">[PDF]</a> |
 | 04/29 | Lab                   |      |  |
 | 05/02 | Exercise 4 DUE        |                                                                                               | |
 | 05/05 | Lecture 14                   |      |  |
