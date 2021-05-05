@@ -15,7 +15,8 @@ Special Topics in Data Science, DS-GA 3001.004/.005
 * DS-GA 3001.004 (Lecture) \
 Wednesdays 1pm-2:40pm  \
 **Location**: Global Center for Academic & Spiritual Life, 238 Thompson Street (GCASL 461)   \
-**Zoom Link**: please log in to NYU classes to get a meeting ID \
+**Zoom Link**: please log in to NYU classes to get a meeting ID
+**Final Presentations**: Wednesday, May 12 2PM-3:50PM on this Zoom link. \
 \
 Please join the lecture in person or on Zoom. Slides will be available after the class. (see [Schedule](#Schedule)).
 
